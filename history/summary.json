@@ -4,9 +4,9 @@
     "url": "http://kafe.fi.muni.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/kafe.fi.muni.cz.ico",
     "slug": "kafe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1008,
     "timeMonth": 957,
     "timeYear": 946,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   },
   {
     "name": "Kafe - API",
     "url": "https://kafe.fi.muni.cz/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/kafe.fi.muni.cz.ico",
     "slug": "kafe-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 112,
     "timeMonth": 121,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   },
   {
     "name": "Garrigue Games",
     "url": "https://games.muni.cz",
     "icon": "https://icons.duckduckgo.com/ip3/games.muni.cz.ico",
     "slug": "garrigue-games",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 747,
     "timeMonth": 789,
     "timeYear": 776,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   },
   {
     "name": "Garrigue Games - API",
     "url": "https://games.muni.cz/api/v1/games",
     "icon": "https://icons.duckduckgo.com/ip3/games.muni.cz.ico",
     "slug": "garrigue-games-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 113,
     "timeMonth": 127,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   }
 ]
