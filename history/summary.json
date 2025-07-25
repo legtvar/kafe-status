@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 962,
-    "timeDay": 1201,
-    "timeWeek": 965,
+    "time": 960,
+    "timeDay": 870,
+    "timeWeek": 978,
     "timeMonth": 976,
-    "timeYear": 962,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2025-07-15": 25
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kafe.fi.muni.cz.ico",
     "slug": "kafe-api",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 123,
-    "timeDay": 173,
+    "timeDay": 102,
     "timeWeek": 126,
-    "timeMonth": 122,
+    "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2025-07-15": 39
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 771,
-    "timeDay": 879,
-    "timeWeek": 741,
-    "timeMonth": 755,
-    "timeYear": 771,
+    "time": 774,
+    "timeDay": 909,
+    "timeWeek": 789,
+    "timeMonth": 763,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2025-07-15": 25
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 132,
-    "timeDay": 168,
-    "timeWeek": 126,
+    "time": 131,
+    "timeDay": 102,
+    "timeWeek": 125,
     "timeMonth": 131,
-    "timeYear": 132,
+    "timeYear": 131,
     "dailyMinutesDown": {
       "2025-07-15": 25
     }
