@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 958,
-    "timeDay": 1310,
-    "timeWeek": 932,
-    "timeMonth": 980,
+    "timeDay": 943,
+    "timeWeek": 943,
+    "timeMonth": 978,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2025-07-15": 25
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 121,
-    "timeDay": 102,
-    "timeWeek": 108,
-    "timeMonth": 122,
+    "timeDay": 100,
+    "timeWeek": 107,
+    "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-07-15": 39
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/games.muni.cz.ico",
     "slug": "garrigue-games",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
-    "time": 764,
-    "timeDay": 754,
-    "timeWeek": 715,
+    "uptimeYear": "99.97%",
+    "time": 763,
+    "timeDay": 698,
+    "timeWeek": 684,
     "timeMonth": 757,
-    "timeYear": 764,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2025-07-15": 25
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 131,
-    "timeDay": 103,
-    "timeWeek": 126,
-    "timeMonth": 134,
-    "timeYear": 131,
+    "time": 130,
+    "timeDay": 100,
+    "timeWeek": 125,
+    "timeMonth": 133,
+    "timeYear": 130,
     "dailyMinutesDown": {
       "2025-07-15": 25
     }
