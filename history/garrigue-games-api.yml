@@ -1,7 +1,7 @@
 url: https://games.muni.cz/api/v1/games
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-16T11:25:26.552Z
+status: up
+code: 200
+responseTime: 103
+lastUpdated: 2025-10-16T13:17:53.028Z
 startTime: 2025-06-12T20:00:54.395Z
 generator: Upptime <https://github.com/upptime/upptime>
