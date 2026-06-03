@@ -4,17 +4,17 @@
     "url": "http://kafe.fi.muni.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/kafe.fi.muni.cz.ico",
     "slug": "kafe",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "82.45%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.72%",
-    "time": 1151,
-    "timeDay": 1155,
-    "timeWeek": 1586,
-    "timeMonth": 1229,
-    "timeYear": 1151,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "58.15%",
+    "uptimeWeek": "91.66%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "99.61%",
+    "time": 1150,
+    "timeDay": 992,
+    "timeWeek": 1521,
+    "timeMonth": 1222,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2025-07-15": 25,
       "2025-10-13": 224,
@@ -28,7 +28,7 @@
       "2026-03-26": 36,
       "2026-04-22": 100,
       "2026-06-02": 238,
-      "2026-06-03": 15
+      "2026-06-03": 603
     }
   },
   {
@@ -36,16 +36,16 @@
     "url": "https://kafe.fi.muni.cz/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/kafe.fi.muni.cz.ico",
     "slug": "kafe-api",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "83.12%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.76%",
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "58.49%",
+    "uptimeWeek": "91.76%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.64%",
     "time": 191,
-    "timeDay": 648,
-    "timeWeek": 441,
-    "timeMonth": 408,
+    "timeDay": 387,
+    "timeWeek": 425,
+    "timeMonth": 405,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2025-07-15": 39,
@@ -61,7 +61,7 @@
       "2026-02-09": 56,
       "2026-04-06": 57,
       "2026-06-02": 233,
-      "2026-06-03": 10
+      "2026-06-03": 598
     }
   },
   {
@@ -69,16 +69,16 @@
     "url": "https://games.muni.cz",
     "icon": "https://icons.duckduckgo.com/ip3/games.muni.cz.ico",
     "slug": "garrigue-games",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "83.79%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.78%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "58.82%",
+    "uptimeWeek": "91.85%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "99.67%",
     "time": 852,
-    "timeDay": 1673,
-    "timeWeek": 969,
-    "timeMonth": 942,
+    "timeDay": 1532,
+    "timeWeek": 938,
+    "timeMonth": 934,
     "timeYear": 852,
     "dailyMinutesDown": {
       "2025-07-15": 25,
@@ -91,7 +91,7 @@
       "2025-12-27": 38,
       "2026-01-20": 32,
       "2026-06-02": 228,
-      "2026-06-03": 5
+      "2026-06-03": 593
     }
   },
   {
@@ -99,17 +99,17 @@
     "url": "https://games.muni.cz/api/v1/games",
     "icon": "https://icons.duckduckgo.com/ip3/games.muni.cz.ico",
     "slug": "garrigue-games-api",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "84.46%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.78%",
-    "time": 214,
-    "timeDay": 479,
-    "timeWeek": 400,
-    "timeMonth": 366,
-    "timeYear": 214,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "59.16%",
+    "uptimeWeek": "91.95%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "99.67%",
+    "time": 215,
+    "timeDay": 385,
+    "timeWeek": 389,
+    "timeMonth": 364,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2025-07-15": 25,
       "2025-08-26": 26,
@@ -122,7 +122,7 @@
       "2025-12-27": 38,
       "2026-01-20": 32,
       "2026-06-02": 224,
-      "2026-06-03": 0
+      "2026-06-03": 588
     }
   }
 ]
